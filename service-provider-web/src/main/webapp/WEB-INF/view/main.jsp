@@ -4,5 +4,7 @@
 <title>Yo</title>
 <body>
 <div>${gokhanUsta}.</div>
+<button onclick=func()>buton</button>
+<a href="www.tesisatcilar.com"></a>
 </body>
 </html>
