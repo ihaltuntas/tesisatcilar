@@ -6,5 +6,6 @@
 <div>${gokhanUsta}.</div>
 <button onclick=func()>buton</button>
 <a href="www.tesisatcilar.com"></a>
+<a href="www.tesisatcilar2.com"></a>
 </body>
 </html>
