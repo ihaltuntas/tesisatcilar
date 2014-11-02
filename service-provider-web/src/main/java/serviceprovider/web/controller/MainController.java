@@ -24,7 +24,7 @@ public class MainController {
 		ProviderDto providerDto = new ProviderDto();
 		saveProviderRequestDto.setProviderDto(providerDto);
 		
-		//cmoüt
+		//cmoüt 2
 		modelAndView.addObject("gokhanUsta", response.toString());
 		return modelAndView;
 	}
