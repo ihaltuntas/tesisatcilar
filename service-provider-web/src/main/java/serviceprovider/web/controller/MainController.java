@@ -17,7 +17,7 @@ public class MainController {
 		ModelAndView modelAndView = new ModelAndView("main");
 		GetAllProvidersRequestDto requestDto = RequestDtoFactory.createGetAllProvidersRequestDto();
 		GetAllProvidersResponseDto response = ServiceClient.getAllProviders(requestDto);
-		
+//		Cok onemli bir commit geliyor
 		modelAndView.addObject("gokhanUsta", response.toString());
 		return modelAndView;
 	}
