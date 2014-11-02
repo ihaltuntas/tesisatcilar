@@ -1,0 +1,5 @@
+serviceprovider\test\manager\ProviderManagerTestCase.class
+serviceprovider\rememberer\test\RemembererTestCase.class
+serviceprovider\test\dao\CategoryDaoTestCase.class
+serviceprovider\test\manager\CategoryManagerTestCase.class
+serviceprovider\provider\test\ProviderAndCategoryTest.class

@@ -1,0 +1,2 @@
+serviceprovider\web\controller\MainController.class
+serviceprovider\web\interceptor\SecurityInterceptor.class
