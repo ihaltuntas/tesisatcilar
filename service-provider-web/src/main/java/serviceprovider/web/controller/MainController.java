@@ -22,9 +22,7 @@ public class MainController {
 		GetAllProvidersResponseDto response = ServiceClient.getAllProviders(requestDto);
 		SaveProviderRequestDto saveProviderRequestDto = RequestDtoFactory.createSaveProviderRequestDto();
 		ProviderDto providerDto = new ProviderDto();
-		providerDto.
 		saveProviderRequestDto.setProviderDto(providerDto);
-		SaveProviderResponseDto saveProviderResponseDto =  
 		
 		
 		modelAndView.addObject("gokhanUsta", response.toString());
